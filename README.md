@@ -24,7 +24,7 @@ use Boolxy\Random\Random;
 ```php
 // Number (Example result: 5793)
 // Default length = 4
-$result = Random::number($length);
+$result = Random::num($length);
 
 // String (Example result: drkmwmlr)
 // Default length = 8
