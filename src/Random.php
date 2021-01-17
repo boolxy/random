@@ -28,7 +28,7 @@ class Random
      *
      * @return string
      */
-    public function str(int $length = 8): string
+    public static function str(int $length = 8): string
     {
         $string = '';
 
@@ -44,7 +44,7 @@ class Random
      *
      * @return string
      */
-    public function alpha(int $length = 16): string
+    public static function alpha(int $length = 16): string
     {
         $string = '';
 
