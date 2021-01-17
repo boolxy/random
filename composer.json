@@ -1,6 +1,12 @@
 {
     "name": "boolxy/random",
     "description": "Generates random values",
+    "keywords": [
+        "random number",
+        "random string",
+        "random alphanumeric string",
+        "php"
+    ],
     "type": "library",
     "authors": [
         {
