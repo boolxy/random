@@ -1,6 +1,6 @@
 # Random
 
-![Tests](https://github.com/boolxy/random/workflows/Tests/badge.svg?branch=master)
+![Tests](https://github.com/boolxy/random/workflows/Tests/badge.svg)
 [![StyleCI](https://github.styleci.io/repos/330243715/shield?branch=main)](https://github.styleci.io/repos/330243715?branch=main)
 [![Latest Stable Version](https://poser.pugx.org/boolxy/random/v/stable?format=flat)](https://packagist.org/packages/boolxy/random)
 [![License](https://poser.pugx.org/boolxy/random/license?format=flat)](https://packagist.org/packages/boolxy/random)
