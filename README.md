@@ -65,4 +65,4 @@ Before testing: Copy phpunit.xml.dist as phpunit.xml and update it. After then y
 ## License
 
 The MIT License (MIT).
-Please see [License File](https://github.com/boolxy/random/blob/master/LICENSE.md) for more information.
+Please see [License File](https://github.com/boolxy/random/blob/main/LICENSE) for more information.
